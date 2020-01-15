@@ -1,0 +1,10 @@
+package com.algaworks.curso.main;
+
+public class SalvandoPrimeiroObjeto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

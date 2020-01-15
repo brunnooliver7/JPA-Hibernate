@@ -1,0 +1,5 @@
+package com.algaworks.curso.modelo;
+
+public class Cliente {
+
+}

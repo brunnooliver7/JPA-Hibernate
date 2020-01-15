@@ -1,0 +1,10 @@
+package com.algaworks.curso.main;
+
+public class RemovendoPrimeiroObjeto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
